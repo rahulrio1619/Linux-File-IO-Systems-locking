@@ -19,7 +19,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-Devolped by: RAHUL S
+Developed by: RAHUL S
 Reg. No.: 212224040259
 ```
 
